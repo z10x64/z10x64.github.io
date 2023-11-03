@@ -1,0 +1,10 @@
+# Dirsearch started Fri Nov  3 22:39:07 2023 as: /usr/share/dirsearch/dirsearch.py -u https://z10x64.github.io/
+
+200     7KB  https://z10x64.github.io/404.html
+200     7KB  https://z10x64.github.io/404
+301   162B   https://z10x64.github.io/assets    -> REDIRECTS TO: https://z10x64.github.io/assets/
+301   162B   https://z10x64.github.io/posts    -> REDIRECTS TO: https://z10x64.github.io/posts/
+200   122B   https://z10x64.github.io/robots.txt
+200     4KB  https://z10x64.github.io/rss
+301   162B   https://z10x64.github.io/search    -> REDIRECTS TO: https://z10x64.github.io/search/
+301   162B   https://z10x64.github.io/tags    -> REDIRECTS TO: https://z10x64.github.io/tags/
