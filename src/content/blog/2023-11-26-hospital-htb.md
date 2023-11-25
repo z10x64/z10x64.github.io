@@ -77,7 +77,7 @@ After capturing the upload request with burpsuite I notice there is an extension
 
 There are some blocked functions as seen from the phpinfo() output.
 
-![](@assets/HackTheBox/Hospital/disable_funtions.png)
+![](@assets/HackTheBox/Hospital/disable_functions.png)
 
 Still can execute system commands with a less php [function](https://www.php.net/manual/en/function.popen.php) called `popen()`.
 
