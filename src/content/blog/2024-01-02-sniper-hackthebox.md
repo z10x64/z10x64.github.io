@@ -1,5 +1,6 @@
 ---
 title: "Sniper Write-Up - HackTheBox"
+description: "Medium Windows HackTheBox machine"
 pubDatetime: 2024-01-02
 draft: false
 tags: ["windows", "htb", "media", "RFI", "port forwarding", "cracking"]
