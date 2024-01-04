@@ -12,7 +12,7 @@ tags: ["windows", "htb", "media", "RFI", "port forwarding", "cracking"]
 
 Let's start with a quick TCP port scan with `nmap`:
 
-~~~
+~~~bash
 ❯ sudo /usr/bin/nmap -sS -p- --min-rate 3000 -n -Pn -vvv 10.10.10.151 -oG openPorts
 Starting Nmap 7.94 ( https://nmap.org ) at 2024-01-01 18:12 CET
 Initiating SYN Stealth Scan at 18:12
