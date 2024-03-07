@@ -306,3 +306,4 @@ SMB         10.10.10.151    445    SNIPER           [+] Sniper\administrator:but
 
 ![](@assets/HackTheBox/Sniper/12.png)
 
+Happy Hacking!
